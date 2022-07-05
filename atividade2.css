@@ -1,0 +1,10 @@
+h1{
+	align-items: center;
+	text-align: center;
+	width: 90vw;
+	height: 5vh;
+	background-color: lightpink;
+	color: white;
+	border: 5px solid lightblue;
+	margin: auto;
+}
